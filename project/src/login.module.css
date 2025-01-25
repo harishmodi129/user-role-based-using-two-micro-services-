@@ -1,0 +1,9 @@
+.entry {
+  display: flex;
+  flex-direction: column;
+}
+
+.userrole {
+  display: flex;
+  width: 50px;
+}
